@@ -10,11 +10,13 @@
 
   :telephone_receiver:Мои контакты
 - :mailbox_with_mail: Email: signacher@mail.ru
-- Telegram: @Aleksey_Telnov
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Aleksey_Telnov"><img width="39px" alt="Telegram" title="Telegram" src="images/tg.png"></a>
+  &#8287;
+  &#8287;
+  <a href="https://vk.com/id239714163"><img width="32px" alt="VK" title="Vk" src="images/vk.png"/></a>
   &#8287;
 </p>
 
