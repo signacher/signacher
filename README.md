@@ -13,6 +13,7 @@
   &#8287;
 </p>
 
+---
 
 ### 🛠️ Stack and tools:
 <p  align="center">
