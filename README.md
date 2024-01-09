@@ -21,6 +21,9 @@
 ---
 
 ### 🛠️ Языки и инструменты:
+<div>
+  <img src="https://github.com/signacher/signacher/blob/main/images/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
+</div>
 <p  align="center">
   <code><img width="5%" title="Python" src="images/python.png"></code>
   <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
