@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Aleksey_Telnov"><img width="40px" alt="Telegram" title="Telegram" src="images/tg.png"></a>
   &#8287;
-  <a href="https://vk.com/id239714163"><img width="40px" alt="VK" title="Vk" src="images/vk.png"/></a>
+  <a href="https://vk.com/id239714163"><img width="60px" alt="VK" title="Vk" src="images/vk.png"/></a>
   &#8287;
 </p>
 
