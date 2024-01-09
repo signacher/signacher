@@ -23,7 +23,7 @@
   <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
   <code><img width="5%" title="Requests" src="images/requests.png"></code>
   <code><img width="5%" title="GitHub" src="images/github.png"></code>
-  <code><img width="5%" title="GitHub" src="images/gitlab.png"></code>
+  <code><img width="5%" title="GitLab" src="images/Gitlab.png"></code>
   <code><img width="5%" title="Jenkins" src="images/jenkins.png"></code>
   <code><img width="5%" title="Selenoid" src="images/selenoid.png"></code>
   <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
@@ -31,5 +31,5 @@
   <code><img width="5%" title="Postman" src="images/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/tg.png"></code>
   <code><img width="5%" title="Slack" src="images/slack.png"></code>
-  <code><img width="5%" title="Slack" src="images/jira.png"></code>
+  <code><img width="5%" title="Jira" src="images/jira.png"></code>
 </p>
