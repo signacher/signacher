@@ -22,6 +22,7 @@
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
   <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
   <code><img width="5%" title="Requests" src="images/requests.png"></code>
+  <code><img width="5%" title="Swagger" src="images/swagger.png"></code>
   <code><img width="5%" title="GitHub" src="images/github.png"></code>
   <code><img width="5%" title="GitLab" src="images/Gitlab.png"></code>
   <code><img width="5%" title="Jenkins" src="images/jenkins.png"></code>
