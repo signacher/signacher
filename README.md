@@ -18,7 +18,7 @@
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/python.png"></code>
-  <code><img width="5%" title="Pytest" src="imagespytest.png"></code>
+  <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
   <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
   <code><img width="5%" title="Requests" src="images/requests.png"></code>
@@ -27,8 +27,6 @@
   <code><img width="5%" title="Selenoid" src="images/selenoid.png"></code>
   <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
   <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
-  <code><img width="5%" title="Jira" src="images/logo/jira.png"></code>
-  <code><img width="5%" title="Confluence" src="images/logo/confluence.png"></code>
   <code><img width="5%" title="Postman" src="images/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/tg.png"></code>
   <code><img width="5%" title="Slack" src="images/slack.png"></code>
