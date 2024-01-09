@@ -16,8 +16,8 @@
 
 ### 🛠️ Stack and tools:
 <p  align="center">
-  <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/python.png"></code>
+  <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
   <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
   <code><img width="5%" title="Selene" src="images/selene.png"></code>
   <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
