@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/ulZ7gQQz9jwZzv224n/giphy.gif" width="200"> 
 
-## 👩‍💻About me
-- I'm manual and automation Engineer.
-- I work QA about 2 years.
-- I write autotests in Python
-- Email: signacher@mail.ru
+## 👩‍💻Обо мне
+Меня зовут Алексей, я QA Engineer из Ростова-на-Дону.
+- :heavy_check_mark: У меня более 2-х лет опыта в QA, из них год в автотестировании.
+- :pencil2: Пишу автотесты на языке Python
+- :mailbox_with_mail: Email: signacher@mail.ru
 - Telegram:@Aleksey_Telnov
 
 <p>
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Stack and tools:
+### 🛠️ Языки и инструменты:
 <p  align="center">
   <code><img width="5%" title="Python" src="images/python.png"></code>
   <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
