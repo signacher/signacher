@@ -22,14 +22,16 @@
 
 ### 🛠️ Языки и инструменты:
 <div>
+  <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/selenium.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/requests.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
 </div>
 <p  align="center">
-  <code><img width="5%" title="Python" src="images/python.png"></code>
-  <code><img width="5%" title="Pycharm" src="images/pycharm.png"></code>
-  <code><img width="5%" title="Pytest" src="images/pytest.png"></code>
-  <code><img width="5%" title="Selene" src="images/selene.png"></code>
-  <code><img width="5%" title="Selenium" src="images/selenium.png"></code>
+
   <code><img width="5%" title="Requests" src="images/requests.png"></code>
   <code><img width="5%" title="Swagger" src="images/swagger.png"></code>
   <code><img width="5%" title="GitHub" src="images/github.png"></code>
