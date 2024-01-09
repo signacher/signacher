@@ -28,20 +28,18 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/selenium.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/requests.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/signacher/signacher/blob/main/images/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/Gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="hhttps://github.com/signacher/signacher/blob/main/images/allure_testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/tg.png" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/slack.png" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
-<p  align="center">
 
-  <code><img width="5%" title="Requests" src="images/requests.png"></code>
-  <code><img width="5%" title="Swagger" src="images/swagger.png"></code>
-  <code><img width="5%" title="GitHub" src="images/github.png"></code>
-  <code><img width="5%" title="GitLab" src="images/Gitlab.png"></code>
-  <code><img width="5%" title="Jenkins" src="images/jenkins.png"></code>
-  <code><img width="5%" title="Selenoid" src="images/selenoid.png"></code>
-  <code><img width="5%" title="Allure Report" src="images/allure_report.png"></code>
-  <code><img width="5%" title="Allure TestOps" src="images/allure_testops.png"></code>
-  <code><img width="5%" title="Postman" src="images/postman.png"></code>
-  <code><img width="5%" title="Telegram" src="images/tg.png"></code>
-  <code><img width="5%" title="Slack" src="images/slack.png"></code>
-  <code><img width="5%" title="Jira" src="images/jira.png"></code>
-</p>
+---
+
