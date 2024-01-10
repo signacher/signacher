@@ -4,7 +4,7 @@
 Меня зовут Алексей, я QA Engineer из Ростова-на-Дону.
 - :heavy_check_mark: У меня более 2-х лет опыта в QA, из них год в автотестировании.
 - :pencil2: Пишу автотесты на языке Python
-- :open_file_folder: Примеры проектов
+- [Примеры проектов](#open_file_folder-Примеры-проектов)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Языки и инструменты:
+## 🛠️ Языки и инструменты:
 <div>
   <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
@@ -43,3 +43,4 @@
 
 ---
 
+## :open_file_folder: Примеры проектов
