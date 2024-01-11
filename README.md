@@ -44,9 +44,9 @@
 ---
 
 ## :open_file_folder: Примеры проектов
-UI тесты для онлайн магазина www.saucedemo.com
+UI тесты для онлайн магазина saucedemo.com
 
---
+---
 
 <details><summary> :man_student: Курсы</summary>
    <table width="100%" border='0'>
