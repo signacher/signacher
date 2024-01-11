@@ -8,7 +8,7 @@
 
 ---
 
-  :telephone_receiver:Мои контакты
+  ## :telephone_receiver:Мои контакты
 - :mailbox_with_mail: Email: signacher@mail.ru
 
 <p>
@@ -48,16 +48,13 @@ Ui тесты для онлайн магазина www.saucedemo.com
 
 ---
 
-## <details><summary>:man_student: <b>Курсы</b></summary>
-<table width="100%" border='0'>
-    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   </tr>
-   <tr><td width="20%" valign="bottom"><img src="images/social_networks/soft.png"></td><td valign="middle"> <a target="_blank" href="https://www.software-testing.ru/edu/3-online/242-selenium-webdriver/">Selenium WebDriver: полное руководство</a>.</td></tr>
-
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/API.jpg"></td><td valign="middle"> <a target="_blank" href="https://www.learnqa.ru/python_api">Автоматизация тестирования REST API на Python</a>.</td></tr>
-   </tr>
-
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/skaing.png"></td><td valign="middle"> <a target="_blank" href="https://skyeng.ru/">Skyeng</a>.</td></tr>
-
-  </table>
-
+<details><summary> :man_student: Курсы</summary>
+   <table width="100%" border='0'>
+    <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a> - Инженер по автоматизации тестирования на Python </td>
+    </tr>
+    <tr><td width="20%" valign="bottom"><img src="images/social_networks/soft.png"></td><td valign="middle"> <a target="_blank" href="https://www.software-testing.ru/edu/3-online/242-selenium-webdriver/">Selenium WebDriver: полное руководство</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/social_networks/API.jpg"></td><td valign="middle"> <a target="_blank" href="https://www.learnqa.ru/python_api">Автоматизация тестирования REST API на Python</a>.</td></tr>
+    </tr>
+    <tr><td width="30%" valign="bottom"><img src="images/social_networks/skaing.png"></td><td valign="middle"> <a target="_blank" href="https://skyeng.ru/">Skyeng</a>.</td></tr>
+   </table></details>
+ 
