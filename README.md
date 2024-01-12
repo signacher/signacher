@@ -44,7 +44,7 @@
 ---
 
 ## :open_file_folder: Примеры проектов
-UI тесты для онлайн магазина saucedemo.com
+<b>[UI тесты для онлайн магазина saucedemo.com](https://github.com/signacher/Saucedemo_UI)</b>
 - Пишется лог в файл расположенный в папке logs 
 
 ---
