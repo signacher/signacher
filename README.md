@@ -39,7 +39,7 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/tg.png" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/slack.png" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/signacher/signacher/blob/main/images/actions.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/actions1.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
 </div>
 
 ---
