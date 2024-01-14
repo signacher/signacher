@@ -39,6 +39,7 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/tg.png" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/slack.png" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/actions.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -48,6 +49,7 @@
 - Тесты написаны на языке Python с помощью библиотеки Selenium
 - Тесты запускаются в Headless режиме с помошью Github Actions.
 - Пишется лог в файл расположенный в папке logs
+- Allure отчет о результатах прохождения тестов публикуется в Github Pages
   
 ---
 
