@@ -45,11 +45,11 @@
 ---
 
 ## :open_file_folder: Примеры проектов
-<b>[UI тесты для онлайн магазина saucedemo.com](https://github.com/signacher/Saucedemo_UI)</b>
-- Тесты написаны на языке Python с помощью библиотеки Selenium
-- Тесты запускаются в Headless режиме с помошью Github Actions.
+###  [UI тесты для онлайн магазина saucedemo.com](https://github.com/signacher/Saucedemo_UI)
+- Тесты написаны на языке `Python` с помощью библиотеки `Selenium`
+- Тесты запускаются в Headless режиме с помошью `Github Actions`.
 - Пишется лог в файл расположенный в папке logs
-- Allure отчет о результатах прохождения тестов с историей запусков публикуется в Github Pages [Отчет](https://signacher.github.io/saucedemo_ui)
+- `Allure отчет` о результатах прохождения тестов с историей запусков публикуется в `Github Pages` [Отчет](https://signacher.github.io/saucedemo_ui)
   
 ---
 
