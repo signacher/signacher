@@ -30,6 +30,7 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/requests.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/actions1.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/Gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
@@ -39,7 +40,6 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/tg.png" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/slack.png" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/signacher/signacher/blob/main/images/actions1.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
 </div>
 
 ---
