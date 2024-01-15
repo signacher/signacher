@@ -6,8 +6,6 @@
 - :pencil2: Пишу автотесты на языке Python
 - :open_file_folder: [Примеры проектов](#open_file_folder-Примеры-проектов)
 - :mailbox_with_mail: Email: signacher@mail.ru
-  
----
 
   ## :telephone_receiver:Мои контакты 
 
@@ -46,22 +44,27 @@
 
 ## :open_file_folder: Примеры проектов
 ###  [UI тесты для онлайн магазина saucedemo.com](https://github.com/signacher/Saucedemo_UI)
-- Тесты написаны на языке `Python` с помощью библиотеки `Selenium`
-- Тесты запускаются в Headless режиме с помошью `Github Actions`.
-- Пишется лог в файл расположенный в папке logs
-- `Allure отчет` о результатах прохождения тестов с историей запусков публикуется в `Github Pages` [Отчет](https://signacher.github.io/saucedemo_ui)
-  
+<details><summary> Кратко о проекте</summary>
+  <ul>
+  <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Selenium</code></li>
+  <li> Тесты запускаются в Headless режиме с помошью <code>Github Actions</code></li>
+  <li> Пишется лог в файл расположенный в папке logs</li>
+  <li> <code>Allure отчет</code> о результатах прохождения тестов с историей запусков публикуется в <code>Github Pages</code> <a target="_blank" href="https://signacher.github.io/saucedemo_ui"> Отчет</a></li>
+  </ul>
+</details>  
+
 ---
 
-<details><summary> :man_student: Курсы</summary>
+## :man_student: Пройденные курсы
    <table width="100%" border='0'>
-     <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a><br><i> Инженер по автоматизации тестирования на Python</i> </td></tr>
-     <tr><td width="30%" valign="bottom"><img src="images/social_networks/API.jpg"></td><td valign="middle"> <a target="_blank" href="https://it-wizard.pro/index">Автоматизация тестирования REST API (Starter)</a>.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="images/stepik.png"></td><td valign="middle"> 
+     <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle"> <a target="_blank" href="https://qa.guru"> Школа инженеров по автоматизации тестирования QA.GURU</a><br><i> Инженер по автоматизации тестирования на Python</i> </td></tr>
+     <tr><td width="30%" valign="bottom"><img src="images/wizard.png"></td><td valign="middle"> <a target="_blank" href="https://it-wizard.pro/index">Автоматизация тестирования REST API (Starter)</a>.</td></tr>
+     <tr><td width="30%" valign="bottom"><p align="center"><img  src="images/stepik.png"></p></td><td valign="middle"> 
       &bull;<a target="_blank" href="https://stepik.org/course/63085/promo"> Инди-курс программирования на Python</a><br>
       &bull;<a target="_blank" href="https://stepik.org/course/120491/promo"> Тестирование ПО:Автоматизация и Программирование.Python.Selenium</a><br>
       &bull;<a target="_blank" href="https://stepik.org/course/575/promo"> Автоматизация тестирования с помощью Selenium и Python</a><br>
-      
-    </td></tr>
-   </table></details>
+      &bull;<a target="_blank" href="https://stepik.org/course/63054/promo"> Интерактивный тренажер по SQL</a><br>
+      &bull;<a target="_blank" href="https://stepik.org/course/118206/promo"> Gitlab в работе</a><br>
+     </td></tr>
+   </table>
  
