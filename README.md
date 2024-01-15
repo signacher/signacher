@@ -1,7 +1,7 @@
 ![GitHub Header Banner](https://github.com/signacher/signacher/blob/main/images/fon1.jpg)
  
 
-## 👩‍💻Обо мне
+## :man_technologist: Обо мне
 Меня зовут Алексей, я QA Engineer из Ростова-на-Дону.
 - :heavy_check_mark: У меня более 2-х лет опыта в QA, из них год в автотестировании.
 - :pencil2: Пишу автотесты на языке Python
