@@ -5,11 +5,11 @@
 - :heavy_check_mark: У меня более 2-х лет опыта в QA, из них год в автотестировании.
 - :pencil2: Пишу автотесты на языке Python
 - :open_file_folder: [Примеры проектов](#open_file_folder-Примеры-проектов)
-
+- :mailbox_with_mail: Email: signacher@mail.ru
+  
 ---
 
-  ## :telephone_receiver:Мои контакты
-- :mailbox_with_mail: Email: signacher@mail.ru
+  ## :telephone_receiver:Мои контакты 
 
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
