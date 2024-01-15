@@ -32,6 +32,7 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/actions1.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/Gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/yaml.png" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/allure_testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
