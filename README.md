@@ -55,11 +55,13 @@
 
 <details><summary> :man_student: Курсы</summary>
    <table width="100%" border='0'>
-    <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a> - Инженер по автоматизации тестирования на Python </td>
-    </tr>
-    <tr><td width="30%" valign="bottom"><img src="images/stepik.png"></td><td valign="middle"> <a target="_blank" href="https://www.software-testing.ru/edu/3-online/242-selenium-webdriver/">Selenium WebDriver: полное руководство</a>.</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="images/social_networks/API.jpg"></td><td valign="middle"> <a target="_blank" href="https://www.learnqa.ru/python_api">Автоматизация тестирования REST API на Python</a>.</td></tr>
-    </tr>
-    <tr><td width="30%" valign="bottom"><img src="images/social_networks/skaing.png"></td><td valign="middle"> <a target="_blank" href="https://skyeng.ru/">Skyeng</a>.</td></tr>
+     <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">QA.GURU</a><br><i> Инженер по автоматизации тестирования на Python</i> </td></tr>
+     <tr><td width="30%" valign="bottom"><img src="images/social_networks/API.jpg"></td><td valign="middle"> <a target="_blank" href="https://it-wizard.pro/index">Автоматизация тестирования REST API (Starter)</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/stepik.png"></td><td valign="middle"> 
+      &bull;<a target="_blank" href="https://stepik.org/course/63085/promo"> Инди-курс программирования на Python</a><br>
+      &bull;<a target="_blank" href="https://stepik.org/course/120491/promo"> Тестирование ПО:Автоматизация и Программирование.Python.Selenium</a><br>
+      &bull;<a target="_blank" href="https://stepik.org/course/575/promo"> Автоматизация тестирования с помощью Selenium и Python</a><br>
+      
+    </td></tr>
    </table></details>
  
