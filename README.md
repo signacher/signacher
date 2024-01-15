@@ -7,14 +7,15 @@
 - :open_file_folder: [Примеры проектов](#open_file_folder-Примеры-проектов)
 - :mailbox_with_mail: Email: signacher@mail.ru
 
-  ## :telephone_receiver:Мои контакты 
-
-<p>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+### :email: Мои контакты
+  <p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Aleksey_Telnov"><img width="40px" alt="Telegram" title="Telegram" src="images/tg.png"></a>
   <a href="https://vk.com/id239714163"><img width="70px" alt="VK" title="Vk" src="images/vk.png"/></a>
   &#8287;
 </p>
+
+
 
 ---
 
