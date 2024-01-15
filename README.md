@@ -45,9 +45,11 @@
 ---
 
 ## :open_file_folder: Примеры проектов
-###  [UI тесты для онлайн магазина saucedemo.com](https://github.com/signacher/Saucedemo_UI)
+<div><img src="https://github.com/signacher/signacher/blob/main/images/saucedemo.png" title="shop" alt="Saucedemo" width="60" height="60"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> UI тесты для онлайн магазина saucedemo.com</a></div>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
   <ul>
+  <li>Демо проект по автоматизации тестирования онлайн магазина <a target="_blank" href="https://www.saucedemo.com/"> https://www.saucedemo.com/<a></li>
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Selenium</code></li>
   <li> Тесты запускаются в Headless режиме с помошью <code>Github Actions</code></li>
   <li> Пишется лог в файл расположенный в папке logs</li>
