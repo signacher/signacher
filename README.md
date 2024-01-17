@@ -51,14 +51,15 @@
 <details><summary> Кратко о проекте</summary>
   <ul>
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://reqres.in/"> https://reqres.in/<a></li>
+  <li> Проект создан в рамках обучения на курсе QA Engineer(Python) и объединен в один репозиторий с UI тестами.
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Requests</code></li>
   <li> Тесты </code></li>
   <li> <code>Allure отчет</code> </li>
   </ul>
-
+</details> 
+   
 ---
    
-</details> 
 <div><img src="https://github.com/signacher/signacher/blob/main/images/saucedemo.png" title="shop" alt="Saucedemo" width="60" height="60"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> UI тесты для онлайн магазина saucedemo.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
