@@ -44,7 +44,7 @@
 ---
 
 ## :open_file_folder: Примеры проектов
-<div><img src="https://github.com/signacher/signacher/blob/main/images/demoqa.png" title="demoqa" alt="demoqa" width="180" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Sauc"> UI тесты для сайта demoqa.com</a></div>
+<div><img src="https://github.com/signacher/signacher/blob/main/images/demoqa1.png" title="demoqa" alt="demoqa" width="100" height="100"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Sauc"> UI тесты для сайта demoqa.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
   <ul>
@@ -72,7 +72,7 @@
    
 ---
    
-<div><img src="https://github.com/signacher/signacher/blob/main/images/saucedemo.png" title="shop" alt="Saucedemo" width="60" height="60"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> UI тесты для онлайн магазина saucedemo.com</a></div>
+<div><img src="https://github.com/signacher/signacher/blob/main/images/saucedemo.png" title="shop" alt="Saucedemo" width="80" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> UI тесты для онлайн магазина saucedemo.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
   <ul>
