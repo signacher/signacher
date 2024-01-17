@@ -16,8 +16,6 @@
   &#8287;
 </p>
 
-
-
 ---
 
 ## 🛠️ Языки и инструменты:
@@ -46,8 +44,22 @@
 ---
 
 ## :open_file_folder: Примеры проектов
-<div><img src="https://github.com/signacher/signacher/blob/main/images/reqres.png" title="reqres" alt="reqres" width="60" height="60"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> API тесты для сайта https://reqres.in/</a></div>
+<div><img src="https://github.com/signacher/signacher/blob/main/images/demoqa.png" title="demoqa" alt="demoqa" width="180" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Sauc"> UI тесты для сайта demoqa.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
+<details><summary> Кратко о проекте</summary>
+  <ul>
+  <li>Демо проект по автоматизации тестирования UI  <a target="_blank" href="https://demoqa.com/"> demoqa.com<a></li>
+  <li> Проект создан в рамках обучения на курсе QA Engineer(Python) и объединен в один репозиторий с API тестами.
+  <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Selene</code></li>
+  <li> Тесты </code></li>
+  <li> <code>Allure отчет</code> </li>
+  </ul>
+</details> 
+   
+ ---
+   
+<img src="https://github.com/signacher/signacher/blob/main/images/reqres.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
+&#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signach"> API тесты для сайта reqres.in </a>
 <details><summary> Кратко о проекте</summary>
   <ul>
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://reqres.in/"> https://reqres.in/<a></li>
