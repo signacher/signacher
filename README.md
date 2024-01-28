@@ -71,6 +71,20 @@
 </details> 
    
 ---
+
+<img src="https://github.com/signacher/signacher/blob/main/images/reqres.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
+&#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signacher/Python_API_LearnQA"> API тесты для playground.learnqa.ru/api </a>
+<details><summary> Кратко о проекте</summary>
+  <ul>
+  <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://playground.learnqa.ru/api/map"> playground.learnqa.ru/api<a></li>
+  <li> Проект создан в рамках обучения на курсе QA Engineer(Python).
+  <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Requests</code></li>
+  <li> Тесты </code></li>
+  <li> <code>Allure отчет</code> </li>
+  </ul>
+</details> 
+   
+---
    
 <div><img src="https://github.com/signacher/signacher/blob/main/images/saucedemo.png" title="shop" alt="Saucedemo" width="80" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> UI тесты для онлайн магазина saucedemo.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
