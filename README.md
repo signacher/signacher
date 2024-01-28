@@ -80,8 +80,10 @@
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://playground.learnqa.ru/api/map"> playground.learnqa.ru/api<a></li>
   <li> Проект создан в рамках обучения на курсе <a target="_blank" href="https://www.learnqa.ru/python_api"> Автоматизация тестирования REST API на Python.<a></li>
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Requests</code></li>
-  <li> Тесты </code></li>
-  <li> <code>Allure отчет</code> </li>
+  <li> Запускать тесты можно в двух окружениях dev и prod</li>
+  <li> Тесты запускаются в Docker контейнере </li>
+  <li> Лог прохождения тестов пишется в файл в папку <code>logs</code></li>
+  <li> После запуска тестов можно сформировать <code>Allure отчет</code> </li>
   </ul>
 </details> 
    
