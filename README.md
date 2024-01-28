@@ -107,7 +107,7 @@
    <table width="100%" border='0'>
      <tr><td width="30%" valign="bottom"><img src="images/qa_guru.png"></td><td valign="middle"> <a target="_blank" href="https://qa.guru"> Школа инженеров по автоматизации тестирования QA.GURU</a><br><i> Инженер по автоматизации тестирования на Python</i> </td></tr>
      <tr><td width="30%" valign="bottom"><img src="images/wizard.png"></td><td valign="middle"> <a target="_blank" href="https://it-wizard.pro/index">Автоматизация тестирования REST API (Starter)</a>.</td></tr>
-     <tr><td width="10%" valign="bottom"><img src="images/krotov1.jpg"></td><td valign="middle"> <a target="_blank" href="https://vk.com/qakrotov">Николай Кротов. Курс по ручному тестированию</a>.</td></tr>
+     <tr><td width="5%" valign="bottom"><img src="images/krotov1.jpg"></td><td valign="middle"> <a target="_blank" href="https://vk.com/qakrotov">Николай Кротов. Курс по ручному тестированию</a>.</td></tr>
      <tr><td width="30%" valign="bottom"><p align="center"><img  src="images/stepik.png"></p></td><td valign="middle"> 
       &bull;<a target="_blank" href="https://stepik.org/course/63085/promo"> Инди-курс программирования на Python</a><br>
       &bull;<a target="_blank" href="https://stepik.org/course/120491/promo"> Тестирование ПО:Автоматизация и Программирование.Python.Selenium</a><br>
