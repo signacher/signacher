@@ -92,6 +92,17 @@
 <div><img src="https://github.com/signacher/signacher/blob/main/images/saucedemo.png" title="shop" alt="Saucedemo" width="80" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/Saucedemo_UI"> UI тесты для онлайн магазина saucedemo.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
+  <br></br>
+ <div align="left">
+  <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/selenium.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/actions1.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/yaml.png" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+</div>
   <ul>
   <li>Демо проект по автоматизации тестирования онлайн магазина <a target="_blank" href="https://www.saucedemo.com/"> https://www.saucedemo.com/<a></li>
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Selenium</code></li>
