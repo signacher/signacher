@@ -76,6 +76,18 @@
 <img src="https://github.com/signacher/signacher/blob/main/images/learnqa.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
 &#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signacher/Python_API_LearnQA"> API тесты для playground.learnqa.ru/api </a>
 <details><summary> Кратко о проекте</summary>
+  <br></br>
+ <div align="left">
+  <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/requests.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/yaml.png" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+</div>
+
   <ul>
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://playground.learnqa.ru/api/map"> playground.learnqa.ru/api<a></li>
   <li> Проект создан в рамках обучения на курсе <a target="_blank" href="https://www.learnqa.ru/python_api"> Автоматизация тестирования REST API на Python.</a></li>
