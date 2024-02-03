@@ -17,6 +17,11 @@
 </p>
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=signacher&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=signacher&theme=transparent) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=signacher&theme=transparent)
+
+---
 
 ## 🛠️ Языки и инструменты:
 <div>
