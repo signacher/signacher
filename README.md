@@ -53,12 +53,30 @@
 <div><img src="https://github.com/signacher/signacher/blob/main/images/demoqa1.png" title="demoqa" alt="demoqa" width="100" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/demoqa_ui"> UI тесты для сайта demoqa.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
+ <br></br>
+ <div align="left">
+  <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure_testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/tg.png" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
+</div>
+
   <ul>
   <li>Демо проект по автоматизации тестирования UI  <a target="_blank" href="https://demoqa.com/"> demoqa.com<a></li>
-  <li> Проект создан в рамках обучения на курсе QA Engineer(Python) и объединен в один репозиторий с API тестами.
+  <li> Проект создан в рамках обучения на курсе <a target="_blank" href="https://qa.guru/python"> QA GURU Автоматизация тестирования на Python</a>
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Selene</code></li>
-  <li> Тесты </code></li>
-  <li> <code>Allure отчет</code> </li>
+  <li> Запуск тестов осуществляется в <code>Jenkins</code> с вариантами выбора браузера и его версии</li>
+  <li> Браузеры запускаются в <code>Docker</code> контейнере с помощью <code>Selenoid</code></li>
+  <li> По результатам тестов формируется <code>Allure</code> отчет с вложениями (скриншоты, логи, видео прохождения теста) </li>
+  <li> Отправляется уведомление о результатах прохождения тестов в <code>Telegram</code> </li>
+  <li> Реализована интеграция с <code>AllureTestOps</code> и <code>Jira</code> </li>
   </ul>
 </details> 
    
