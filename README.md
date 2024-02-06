@@ -74,7 +74,7 @@
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Selene</code></li>
   <li> Запуск тестов осуществляется в <code>Jenkins</code> с вариантами выбора браузера и его версии</li>
   <li> Браузеры запускаются в <code>Docker</code> контейнере с помощью <code>Selenoid</code></li>
-  <li> По результатам тестов формируется <code>Allure</code> отчет с вложениями (скриншоты, логи, видео прохождения теста) </li>
+  <li> По результатам тестов формируется  <a target="_blank" href="https://jenkins.autotests.cloud/job/demo_qa_ui/allure/"> <code>Allure</code> отчет</a> с вложениями (скриншоты, логи, видео прохождения теста) </li>
   <li> Отправляется уведомление о результатах прохождения тестов в <code>Telegram</code> </li>
   <li> Реализована интеграция с <code>AllureTestOps</code> и <code>Jira</code> </li>
   </ul>
