@@ -53,6 +53,7 @@
 <div><img src="https://github.com/signacher/signacher/blob/main/images/demoqa1.png" title="demoqa" alt="demoqa" width="100" height="80"/>&nbsp;<a target="_blank" href="https://github.com/signacher/demoqa_ui"> UI тесты для сайта demoqa.com</a></div>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <details><summary> Кратко о проекте</summary>
+ <a target="_blank" href="https://github.com/signacher/demoqa_ui/blob/master/README.md"> README</a>
  <br></br>
  <div align="left">
   <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
