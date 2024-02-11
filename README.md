@@ -84,7 +84,7 @@
  ---
    
 <img src="https://github.com/signacher/signacher/blob/main/images/reqres.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
-&#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signach"> API тесты для сайта reqres.in </a>
+&#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signacher/reqres_api"> API тесты для сайта reqres.in </a>
 <details><summary> Кратко о проекте</summary>
   <ul>
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://reqres.in/"> https://reqres.in/<a></li>
