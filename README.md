@@ -86,6 +86,7 @@
 <img src="https://github.com/signacher/signacher/blob/main/images/reqres.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
 &#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signacher/reqres_api"> API тесты для сайта reqres.in </a>
 <details><summary> Кратко о проекте</summary>
+ <a target="_blank" href="hhttps://github.com/signacher/reqres_api/blob/master/README.md"> README</a>
  <br></br>
  <div align="left">
   <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -115,7 +116,6 @@
 <img src="https://github.com/signacher/signacher/blob/main/images/learnqa.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
 &#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signacher/Python_API_LearnQA"> API тесты для playground.learnqa.ru/api </a>
 <details><summary> Кратко о проекте</summary>
- <a target="_blank" href="hhttps://github.com/signacher/reqres_api/blob/master/README.md"> README</a>
   <br></br>
  <div align="left">
   <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
