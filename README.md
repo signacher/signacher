@@ -103,8 +103,8 @@
   <ul>
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://reqres.in/"> https://reqres.in/<a></li>
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Requests</code></li>
-  <li> Тесты </code></li>
-  <li> <code>Allure отчет</code> </li>
+  <li> Cхема ответа валидируется с помощью библиотеки <code>JsonSchema</code> </code></li>
+  <li> По результатам тестов формируется <code>Allure</code> отчет с вложениями (код ответа, курл, параметры и тд.) </li>
   </ul>
 </details> 
    
