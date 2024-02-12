@@ -86,9 +86,22 @@
 <img src="https://github.com/signacher/signacher/blob/main/images/reqres.png" title="reqres" alt="reqres" width="100" height="60"/>&nbsp;
 &#8287;&#8287;&#8287;&#8287;&#8287;<a target="_blank" href="https://github.com/signacher/reqres_api"> API тесты для сайта reqres.in </a>
 <details><summary> Кратко о проекте</summary>
+ <br></br>
+ <div align="left">
+  <img src="https://github.com/signacher/signacher/blob/main/images/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/requests.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/allure_testops.png" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/tg.png" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
+</div>
+
   <ul>
   <li>Демо проект по автоматизации тестирования API  <a target="_blank" href="https://reqres.in/"> https://reqres.in/<a></li>
-  <li> Проект создан в рамках обучения на курсе QA Engineer(Python) и объединен в один репозиторий с UI тестами.
   <li> Тесты написаны на языке <code>Python</code> с помощью библиотеки <code>Requests</code></li>
   <li> Тесты </code></li>
   <li> <code>Allure отчет</code> </li>
