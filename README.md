@@ -30,6 +30,7 @@
   <img src="https://github.com/signacher/signacher/blob/main/images/actions1.png" title="Github Actions" alt="Github Actions" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/Gitlab.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/signacher/signacher/blob/main/images/kafka.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/mongodb.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/signacher/signacher/blob/main/images/yaml.png" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
