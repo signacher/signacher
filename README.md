@@ -17,11 +17,6 @@
 </p>
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=signacher&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=signacher&theme=transparent) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=signacher&theme=transparent)
-
----
 
 ## 🛠️ Языки и инструменты:
 <div>
@@ -180,4 +175,11 @@
       &bull;<a target="_blank" href="https://stepik.org/course/118206/promo"> Gitlab в работе</a><br>
      </td></tr>
    </table>
+
+   ---
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=signacher&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=signacher&theme=transparent) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=signacher&theme=transparent)
+
  
