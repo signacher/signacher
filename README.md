@@ -2,8 +2,8 @@
  
 
 ## :man_technologist: Обо мне
-Меня зовут Алексей, я QA Engineer из Ростова-на-Дону.
-- :heavy_check_mark: У меня более 2-х лет опыта в QA, из них год в автотестировании.
+Меня зовут Алексей, я Fullstack QA Engineer .
+- :heavy_check_mark: У меня более 3-х лет опыта в QA, из них 2 года в автотестировании.
 - :pencil2: Пишу автотесты на языке Python
 - :open_file_folder: [Примеры проектов](#open_file_folder-Примеры-проектов)
 - :mailbox_with_mail: Email: signacher@mail.ru
